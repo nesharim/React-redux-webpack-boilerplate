@@ -1,0 +1,14 @@
+{
+  "presets": [
+    "env",
+    "react",
+    "airbnb"
+  ],
+  
+  "plugins": [
+    "transform-react-jsx",
+    "transform-decorators-legacy",
+    "transform-class-properties",
+    "transform-async-to-generator",
+  ]
+}
